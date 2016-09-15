@@ -1,0 +1,14 @@
+Name : Manisha Das
+Mob : 9008482483
+Email : manishadas8914@gmail.com
+Course : java,j2ee(jdbc,servlet),web
+Degree : BCA 2013 passout
+
+Name : GuruSiddapa
+Mob    : 8495006198
+email  :siddukurukundi@gmail.com
+course :java,j2ee,sql
+Batch code : JECW6
+passout : 2016
+  
+
